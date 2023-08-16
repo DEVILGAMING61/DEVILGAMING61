@@ -1,4 +1,4 @@
-package com.example.zombieslayerquest;
+package zombieslayerquest;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
